@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-widget-colorinput",
+    "name": "lotltd/yii2-widget-colorinput",
     "description": "An enhanced Yii 2 widget encapsulating the HTML 5 color input (sub repo split from yii2-widgets)",
     "keywords": ["yii2", "extension", "widget", "form", "color", "input", "html5", "jquery", "plugin"],
     "homepage": "https://github.com/kartik-v/yii2-widget-colorinput",
